@@ -1,0 +1,14 @@
+========================= Google Keep Note System ======================
+
+- As a user, I should be able to create a account
+- As a user, I should be able to login to my account
+- As a user, I should be able to create, update , delete and view lables
+- As a user, I should be able to create, update , delete and view notes inside lable
+- When user delete a lable then all the notes associated with that lable should go inside trash section
+- From trash section notes should be deleted parmanenatly after 7 days
+- User can re-store a notes from trash section under 7 days
+- Notes section should display all notes of logged in user
+- As a user, I should be able to delete a note from trash section explicilty before 7 days if want
+- As a user, I should be able to delete multiple notes by selecting multple notes from trash before 7 days if want
+- As a user, I should be able to delete one or multiple notes from lable by selecting notes if want
+- As a user, I should be able to upload one or more images in my note if I want
